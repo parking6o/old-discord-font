@@ -1,6 +1,6 @@
 ## Custom CSS
 ```css
-@import url(hhttps://cdn.statically.io/gh/parking6o/old-discord-font/main/source.min.css);
+@import url(https://cdn.statically.io/gh/parking6o/old-discord-font/main/source.min.css);
 ```
 
 # Credits
